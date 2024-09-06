@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-datetime-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-console-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-templates-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-dateutil-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-nio-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-swing-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-cli-picocli-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-testng-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-datetime-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-ant-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-sql-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-docgenerator-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-jmx-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-test-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-cli-commons-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-json-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-toml-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-ginq-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-templates-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-console-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-docgenerator-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-cli-commons-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-swing-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-astbuilder-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-sql-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-dateutil-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-test-junit5-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-test-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-ant-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-macro-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-typecheckers-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-xml-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-cli-picocli-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-macro-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-servlet-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-groovysh-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-contracts-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-groovydoc-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-testng-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-astbuilder-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-contracts-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-servlet-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-jsr223-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-toml-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-typecheckers-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-json-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-macro-library-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-test-junit5-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-groovysh-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-groovydoc-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-jmx-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-jsr223-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-xml-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-macro-library-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-ginq-4.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/programs/binarySearch/lib/groovy-nio-4.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
